@@ -1,0 +1,37 @@
+users_pet_api
+A simply API endpoint that show list of user and their data
+{
+"data":
+[
+  {
+  "id":1,
+  "username":"vimal parmar",
+  "email":"vimalp.flora@gmail.com",
+  "isFriendly":true,
+  },
+  {
+  "id":2,
+  "username":"Harsh Adesara",
+  "email":"harshh.flora@gmail.com",
+  "isFriendly":true,
+  },
+  {
+  "id":3,
+  "username":"Akash Ramani",
+  "email":"akashr.flora@gmail.com",
+  "isFriendly":true,
+  },
+  {
+  "id":4,
+  "username":"Priyanka Chauhan",
+  "email":"priyankac.flora@gmail.com",
+  "isFriendly":true,
+  },
+  {
+  "id":5,
+  "username":"Ayushi Bisht",
+  "email":"ayushib.flora@gmail.com",
+  "isFriendly":true,
+  },
+]
+}
