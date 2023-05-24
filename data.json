@@ -5,26 +5,6 @@
   "id":1,
   "username":"vimal parmar",
   "email":"vimalp.flora@gmail.com"
-  },
-  {
-  "id":2,
-  "username":"Harsh Adesara",
-  "email":"harshh.flora@gmail.com"
-  },
-  {
-  "id":3,
-  "username":"Akash Ramani",
-  "email":"akashr.flora@gmail.com"
-  },
-  {
-  "id":4,
-  "username":"Priyanka Chauhan",
-  "email":"priyankac.flora@gmail.com"
-  },
-  {
-  "id":5,
-  "username":"Ayushi Bisht",
-  "email":"ayushib.flora@gmail.com"
-  },
+  }
 ]
 }
